@@ -4,5 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0328-odd-even-linked-list](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0328-odd-even-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
