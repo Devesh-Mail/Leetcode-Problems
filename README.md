@@ -50,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0682-baseball-game) |
+| [1260-shift-2d-grid](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [1260-shift-2d-grid](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,5 +65,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0682-baseball-game) |
+| [1260-shift-2d-grid](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
