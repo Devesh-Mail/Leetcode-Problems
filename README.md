@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0682-baseball-game) |
 ## Recursion
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
+| [0682-baseball-game](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
@@ -60,5 +62,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
