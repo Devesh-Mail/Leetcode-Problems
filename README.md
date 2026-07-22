@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0118-pascals-triangle](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
 |  |
