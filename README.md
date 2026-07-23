@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0283-move-zeroes](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0682-baseball-game) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0015-3sum) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
