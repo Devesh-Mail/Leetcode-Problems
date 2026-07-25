@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3536-maximum-product-of-two-digits](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Stack
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0015-3sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
 |  |
 | ------- |
