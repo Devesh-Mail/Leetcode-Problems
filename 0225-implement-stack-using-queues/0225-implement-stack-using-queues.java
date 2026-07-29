@@ -1,28 +1,25 @@
 class MyStack {
-    Deque<Integer> que=new ArrayDeque<>();
+    Queue<Integer> que=new LinkedList<>();
     public MyStack() {
         
     }
     
     public void push(int x) {
-        que.addLast(x);
+        que.add(x);
+        for(int i=0;i<que.size()-1;i++)
+            que.add(que.poll());
     }
     
     public int pop() {
-        int x=que.getLast();
-        que.removeLast();
-        return x;
+        return que.poll();
     }
     
     public int top() {
-        return que.getLast();
+        return que.peek();
     }
     
-    public boolean empty() {
-        if(que.isEmpty())
-            return true;
-        else
-            return false;
+    public boolean empty(){
+        return que.isEmpty();
     }
 }
 
