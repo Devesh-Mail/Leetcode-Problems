@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0328-odd-even-linked-list) |
+| [0641-design-circular-deque](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0641-design-circular-deque) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Hash Table
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0641-design-circular-deque](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0641-design-circular-deque) |
 | [0682-baseball-game](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -177,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Design
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0641-design-circular-deque) |
+## Queue
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
