@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
+| [0257-binary-tree-paths](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 ## Sliding Window
 |  |
 | ------- |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
@@ -203,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0641-design-circular-deque](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0641-design-circular-deque) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
