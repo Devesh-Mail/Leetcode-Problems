@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0168-excel-sheet-column-title](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0641-design-circular-deque](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0641-design-circular-deque) |
 | [0682-baseball-game](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0682-baseball-game) |
+| [0877-stone-game](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0877-stone-game](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0877-stone-game) |
 ## Simulation
 |  |
 | ------- |
@@ -211,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
