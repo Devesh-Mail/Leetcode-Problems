@@ -1,15 +1,18 @@
 class Solution {
 public:
     vector<int> findMissingElements(vector<int>& nums) {
-        unordered_map<int,bool> m;
-        sort(nums.begin(),nums.end());
         vector<int> ans;
-        for(int num:nums){
-            m[num]=true;
-        }
-        for(int num=nums[0];num<nums[nums.size()-1];num++){
-            if(!m[num])
-                ans.push_back(num);
+        set<int> s(nums.begin(),nums.end());
+        int prev=-1111;
+        for(int num:s){
+            if(prev==-1111){
+                prev=num;
+                continue;
+            }
+            for(int i=prev+1;i<num;i++){
+                ans.push_back(i);
+            }
+            prev=num;
         }
         return ans;
     }
