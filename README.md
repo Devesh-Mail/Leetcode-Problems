@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
@@ -235,4 +237,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0877-stone-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
