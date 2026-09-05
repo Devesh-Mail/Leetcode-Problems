@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/3731-find-missing-elements) |
+| [3904-smallest-stable-index-ii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
+| [3904-smallest-stable-index-ii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/3904-smallest-stable-index-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
