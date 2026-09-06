@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0396-rotate-function](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0396-rotate-function) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [1260-shift-2d-grid](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Dynamic Programming
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Bit Manipulation
 |  |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [3903-smallest-stable-index-i](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/3904-smallest-stable-index-ii) |
 ## Divide and Conquer
@@ -311,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+## Ordered Set
+|  |
+| ------- |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 <!---LeetCode Topics End-->
