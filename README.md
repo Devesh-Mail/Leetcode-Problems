@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0641-design-circular-deque](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0641-design-circular-deque) |
 | [0682-baseball-game](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0682-baseball-game) |
+| [0835-image-overlap](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0835-image-overlap](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Dynamic Programming
