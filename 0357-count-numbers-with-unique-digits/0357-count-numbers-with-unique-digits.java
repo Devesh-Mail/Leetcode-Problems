@@ -3,10 +3,7 @@ class Solution {
         int ans=1;
         if(n==0)
             return ans;
-        ans+=9;
-        if(n==1)
-            return ans;
-        while(n>1){
+        while(n>0){
             int curr=9;
             for(int i=1;i<n;i++){
                 curr*=(10-i);
