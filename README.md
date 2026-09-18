@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0142-linked-list-cycle-ii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0168-excel-sheet-column-title](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0257-binary-tree-paths](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
