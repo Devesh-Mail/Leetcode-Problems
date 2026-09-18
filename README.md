@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0168-excel-sheet-column-title](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0396-rotate-function](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0396-rotate-function) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Array
