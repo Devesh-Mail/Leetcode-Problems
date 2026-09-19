@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0396-rotate-function](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0396-rotate-function) |
+| [0415-add-strings](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
+| [0415-add-strings](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0257-binary-tree-paths](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0306-additive-number) |
+| [0415-add-strings](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
