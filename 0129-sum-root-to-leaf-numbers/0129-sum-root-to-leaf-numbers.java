@@ -14,26 +14,31 @@
  * }
  */
 class Solution {
-    int ans=0;
-    private void calc(TreeNode root,int num){
-        num*=10;
-        num+=root.val;
-        if(root.left==null && root.right==null){
-            ans+=num;
-            System.out.println("A");
-            return;
-        }
-        if(root.left!=null){
-            System.out.println("B");
-            calc(root.left,num);
-        }
-        if(root.right!=null){
-            System.out.println("C");
-            calc(root.right,num);
-        }
-    }
+    public record Pair<Node,num>(Node first,num second){}
     public int sumNumbers(TreeNode root) {
-        calc(root,0);
+        Queue<Pair<TreeNode,Integer>> que=new LinkedList<>();
+        Pair<TreeNode,Integer> pair=new Pair(root,root.val);
+        que.add(pair);
+        int ans=0;
+        while(!que.isEmpty()){
+            int size=que.size();
+            while(size-- >0){
+                Pair<TreeNode,Integer> p=que.poll();
+                TreeNode node=p.first();
+                int num=p.second();
+                if(node.left==null && node.right==null){
+                    ans+=num;
+                }
+                if(node.left!=null){
+                    Pair<TreeNode,Integer> t=new Pair<>(node.left,(num*10)+node.left.val);
+                    que.add(t);
+                }
+                if(node.right!=null){
+                    Pair<TreeNode,Integer> t=new Pair<>(node.right,(num*10)+node.right.val);
+                    que.add(t);
+                }
+            }
+        }
         return ans;
     }
 }
