@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0052-n-queens-ii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0052-n-queens-ii) |
 | [0216-combination-sum-iii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0306-additive-number) |
@@ -411,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
