@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0052-n-queens-ii) |
 | [0216-combination-sum-iii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
