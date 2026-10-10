@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
