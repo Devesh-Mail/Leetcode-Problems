@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0349-intersection-of-two-arrays](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -421,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0052-n-queens-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
