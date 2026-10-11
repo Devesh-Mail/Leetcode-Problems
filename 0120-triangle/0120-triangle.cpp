@@ -14,11 +14,6 @@ public:
             ans.push_back(t);
         }
         int res=INT_MAX;
-        for(int r=0;r<ans.size();r++){
-            for(int c=0;c<ans[r].size();c++)
-                cout<<ans[r][c]<<" ";
-            cout<<endl;
-        }
         for(int num:ans[ans.size()-1]){
             res=min(res,num);
         }
