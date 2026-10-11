@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0357-count-numbers-with-unique-digits) |
