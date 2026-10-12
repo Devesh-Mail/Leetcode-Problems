@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0130-surrounded-regions) |
+| [0162-find-peak-element](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
