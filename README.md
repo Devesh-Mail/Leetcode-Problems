@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/3871-count-commas-in-range-ii) |
 ## Stack
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
