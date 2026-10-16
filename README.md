@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0997-find-the-town-judge](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0997-find-the-town-judge) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0835-image-overlap](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0877-stone-game) |
+| [0997-find-the-town-judge](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0997-find-the-town-judge) |
 | [1260-shift-2d-grid](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0547-number-of-provinces) |
+| [0997-find-the-town-judge](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0997-find-the-town-judge) |
 ## Counting Sort
 |  |
 | ------- |
