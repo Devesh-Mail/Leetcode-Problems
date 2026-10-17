@@ -7,12 +7,7 @@ public:
             int sum=digitSum(nums[i]);
             ans[i]={{sum,nums[i]},i};
         }
-        sort(ans.begin(),ans.end(),[](const auto& a,const auto& b){
-            if(a.first.first==b.first.first)
-                return a.first.second<b.first.second;
-            else
-                return a.first.first<b.first.first;
-        });
+        sort(ans.begin(),ans.end());
         int res=0;
         vector<int> vis(N);
         for(int i=0;i<N;i++){
