@@ -20,8 +20,6 @@ private:
     void dfs(vector<vector<int>> &preq,int index,int N,vector<bool> &vis,int start){
         if(index==start)
             ans=false;
-        if(!ans)
-            return;
         for(int p:preq[index]){
             if(vis[p])
                 continue;
