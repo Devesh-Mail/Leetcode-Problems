@@ -10,17 +10,16 @@ public:
             degree[e[0]]++;
             degree[e[1]]++;
         }
-        vector<int> child(N+1);
+        vector<int> parent(N+1);
         vector<bool> vis(N+1);
         vis[1]=true;
-        pair<int,int> cycle=dfs(graph,1,child,vis);
+        pair<int,int> cycle=dfs(graph,1,parent,vis);
         map<int,bool> cycleElements;
-        cout<<cycle.first<<" "<<cycle.second<<endl;
         int curr=cycle.second;
         cycleElements[cycle.first]=true;
         while(curr!=cycle.first){
             cycleElements[curr]=true;
-            curr=child[curr];
+            curr=parent[curr];
         }
         vector<int> ans(2);
         for(int i=N-1;i>=0;i--){
@@ -32,16 +31,16 @@ public:
         return ans;
     }
 private:
-    pair<int,int> dfs(vector<vector<int>> &graph,int curr,vector<int> &child,vector<bool> &vis){
+    pair<int,int> dfs(vector<vector<int>> &graph,int curr,vector<int> &parent,vector<bool> &vis){
         cout<<curr<<endl;
         for(int node:graph[curr]){
-            if(vis[node] && node!=child[curr])
+            if(vis[node] && node!=parent[curr])
                 return {node,curr};
             if(vis[node])
                 continue;
-            child[node]=curr;
+            parent[node]=curr;
             vis[node]=true;
-            pair<int,int> cycle=dfs(graph,node,child,vis);
+            pair<int,int> cycle=dfs(graph,node,parent,vis);
             if(cycle.first!=0)
                 return cycle;
         }
