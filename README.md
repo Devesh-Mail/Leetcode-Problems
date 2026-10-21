@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0743-network-delay-time) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0743-network-delay-time) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0743-network-delay-time](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0743-network-delay-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Graph Theory
 |  |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0743-network-delay-time) |
 | [0997-find-the-town-judge](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
@@ -519,4 +523,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
