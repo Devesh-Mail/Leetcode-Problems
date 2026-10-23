@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0743-network-delay-time) |
 | [0851-loud-and-rich](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0851-loud-and-rich) |
 | [0997-find-the-town-judge](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0997-find-the-town-judge) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1791-find-center-of-star-graph](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Counting Sort
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0851-loud-and-rich](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0851-loud-and-rich) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 ## Shortest Path
 |  |
 | ------- |
