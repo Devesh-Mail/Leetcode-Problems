@@ -15,10 +15,10 @@ public:
             while(!que.empty()){
                 int curr=que.front();
                 que.pop();
-                vis[curr]=true;
                 for(int node:graph[curr]){
                     if(!vis[node])
                         que.push(node);
+                    vis[node]=true;
                 }
                 pq.push({quiet[curr],curr});
             }
