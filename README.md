@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-loud-and-rich](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0851-loud-and-rich) |
 | [0877-stone-game](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0997-find-the-town-judge](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0997-find-the-town-judge) |
+| [1254-number-of-closed-islands](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0835-image-overlap](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Dynamic Programming
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0743-network-delay-time) |
 | [0851-loud-and-rich](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0851-loud-and-rich) |
+| [1254-number-of-closed-islands](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0743-network-delay-time) |
+| [1254-number-of-closed-islands](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -400,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0684-redundant-connection) |
+| [1254-number-of-closed-islands](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Heap (Priority Queue)
