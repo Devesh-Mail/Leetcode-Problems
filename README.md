@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/3731-find-missing-elements) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0396-rotate-function) |
 | [0678-valid-parenthesis-string](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0877-stone-game) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
