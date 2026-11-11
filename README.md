@@ -532,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0610-triangle-judgement](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0610-triangle-judgement) |
+| [0627-swap-sex-of-employees](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Devesh-Mail/Leetcode-Problems/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 ## Binary Indexed Tree
 |  |
